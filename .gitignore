@@ -1,0 +1,6 @@
+*.mp4
+*.avi
+*.jpg
+__pycache__/
+pothole/
+pothole_coordinates/
