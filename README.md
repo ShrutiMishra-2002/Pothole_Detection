@@ -6,26 +6,25 @@ An end-to-end computer vision web application that detects potholes in road insp
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 Manual road inspection is time-consuming, inconsistent, and expensive.
 This project automates pothole detection using a YOLO-based object detection model to enable scalable, AI-powered infrastructure monitoring.
 
 ---
 
-## 🚀 Key Highlights (For Recruiters)
+##  Key Highlights
 
-* ✅ Built an end-to-end Deep Learning pipeline
-* ✅ Integrated YOLO object detection with OpenCV
-* ✅ Developed an interactive web dashboard using Streamlit
-* ✅ Implemented video processing + frame-by-frame inference
-* ✅ Generated annotated output videos with bounding boxes
-* ✅ Designed a responsive SaaS-style UI
-* ✅ Deployment-ready architecture
+*  Built an end-to-end Deep Learning pipeline
+*  Integrated YOLO object detection with OpenCV
+*  Developed an interactive web dashboard using Streamlit
+*  Implemented video processing + frame-by-frame inference
+*  Generated annotated output videos with bounding boxes
+*  Deployment-ready architecture
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 ```
 Video Upload → Frame Extraction → YOLO Inference → 
@@ -43,7 +42,7 @@ Bounding Box Rendering → Video Reconstruction → Web Preview
 
 ---
 
-## 🏗 Tech Stack
+##  Tech Stack
 
 **Frontend / Interface**
 
@@ -64,27 +63,7 @@ Bounding Box Rendering → Video Reconstruction → Web Preview
 
 ---
 
-## 📂 Project Structure
-
-```
-POTHOLE-DETECTION/
-│
-├── app.py                  # Streamlit UI
-├── detector.py             # Detection + Video Processing Logic
-├── requirements.txt
-├── packages.txt
-│
-├── project_files/
-│   ├── yolov4_tiny.weights
-│   ├── yolov4_tiny.cfg
-│   └── obj.names
-│
-└── README.md
-```
-
----
-
-## 💡 Core Engineering Concepts Demonstrated
+##  Core Engineering Concepts Demonstrated
 
 * Computer Vision (Image Processing)
 * Deep Learning Model Integration
@@ -96,7 +75,7 @@ POTHOLE-DETECTION/
 
 ---
 
-## 📈 Performance Considerations
+##  Performance Considerations
 
 * Lightweight YOLO variant for faster inference
 * Frame-by-frame processing optimization
