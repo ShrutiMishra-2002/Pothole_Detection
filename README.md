@@ -84,7 +84,7 @@ Bounding Box Rendering → Video Reconstruction → Web Preview
 
 ---
 
-## 📊 Practical Applications
+##  Practical Applications
 
 * Smart City Infrastructure Monitoring
 * Automated Road Quality Assessment
@@ -93,7 +93,7 @@ Bounding Box Rendering → Video Reconstruction → Web Preview
 
 ---
 
-## 📌 Future Enhancements
+##  Future Enhancements
 
 * Real-time webcam detection
 * Cloud storage integration
